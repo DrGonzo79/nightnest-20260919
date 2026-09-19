@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {"id":"ridge","name":"Blue Ridge Cabin","location":"Asheville, NC","bortle":3,"horizon":82,"outdoorArea":"deck","nightlyRate":265,"occupancy":0.71},
+    {"id":"desert","name":"Juniper Desert Casita","location":"Joshua Tree, CA","bortle":2,"horizon":91,"outdoorArea":"patio","nightlyRate":310,"occupancy":0.77}
+  ],
+  "kits": [
+    {"id":"starter","name":"Guest-ready starter","price":486,"items":["8×42 binoculars","Red-light lanterns","Weatherproof sky map","Deck QR placard"],"minimumScore":0},
+    {"id":"guided","name":"Hosted sky deck","price":1128,"items":["Tabletop smart telescope","Two zero-gravity chairs","Red-light lanterns","Locked storage bench","Deck QR placard"],"minimumScore":72},
+    {"id":"premium","name":"Signature observatory","price":2380,"items":["Smart telescope","Four reclining chairs","Low-glare path markers","Weather station","Branded guest guide"],"minimumScore":86}
+  ],
+  "skyEvents": [
+    {"date":"2026-09-19","title":"Saturn after dark","window":"9:10–11:40 PM","direction":"Southeast","difficulty":"Easy"},
+    {"date":"2026-09-20","title":"Milky Way core","window":"8:45–10:05 PM","direction":"Southwest","difficulty":"Moderate"},
+    {"date":"2026-09-21","title":"Moon and Pleiades","window":"10:15 PM onward","direction":"East","difficulty":"Easy"}
+  ]
+}
